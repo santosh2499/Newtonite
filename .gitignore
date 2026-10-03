@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+*.db
+.venv/
+venv/
+node_modules/
+frontend/dist/
+frontend/.vite/
+frontend/*.tsbuildinfo
+.env
